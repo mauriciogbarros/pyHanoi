@@ -22,3 +22,4 @@ The goal of the Tower of Hanoi puzzle is moving all the disks to the last rod. T
 [1] [2] [3]
 [1] [] [3, 2]
 [] [] [3, 2, 1]
+```
